@@ -2,7 +2,9 @@
 > A Practical Introduction to Model Governance Using `hfhub` and `tok`
 
 **Author:** Patrick Lefler
+
 **Published:** 2026-05-13
+
 **Rendered:**
 
 ---
