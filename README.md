@@ -5,7 +5,7 @@
 
 **Published:** 2026-05-13
 
-**Rendered:**
+**Rendered:** https://patrick-lefler.github.io/rQuarto_auditing_pre-trained_hugging_face_financial_risk_model_2026-05-13/
 
 ---
 
